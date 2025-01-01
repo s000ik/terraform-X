@@ -67,9 +67,8 @@ terraform -help
 ```
 ---
 
-## Key Terraform Commands
 
-Here are some commonly used commands to manage the infrastructure:
+## Key Terraform Commands
 
 1. **Initialize Terraform**:
    ```bash
@@ -94,6 +93,7 @@ Here are some commonly used commands to manage the infrastructure:
    terraform destroy
    ```
    This tears down all resources managed by this Terraform configuration.
+
 
 ---
 

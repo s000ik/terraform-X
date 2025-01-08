@@ -2,6 +2,9 @@
 
 This repository is a sandbox for experimenting with **Terraform**, a powerful **Infrastructure as Code (IaC)** system. My goal with this project is to understand the basics of Terraform, including provisioning resources, managing state, and writing reusable code.
 
+![Terraform-X-white](https://github.com/user-attachments/assets/270b8337-2bb6-413f-b1ef-b6c74b3f3655)
+
+
 ## Project Overview
 
 In this project, I'm using Terraform to:
